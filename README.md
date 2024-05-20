@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Dante I'm the founder/CEO of mindgarden.io 
-- 👀 It's gamified meditation app with over 5000 users, aiming fight both the global mental health and climate change epidemics. 
-- 🌱 I’m currently learning how to run a company  
-- 💞️ I’m looking for help transition my company from Web2 to Web3. 
+- 👋 Hi, I’m Dante learn more about me at https://publish.obsidian.md/dante/%F0%9F%8C%8E+Atlas/Public+Brain/Home
 - 📫 How to reach me: teamdomics@gmail.com 
 
 <!---
